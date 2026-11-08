@@ -19,3 +19,5 @@
 
 ## 学习记录
 这是我学习 Python 的第一个项目，用到了循环、条件判断和文件操作。
+# file-organizer
+A file organization tool designed to automatically sort, organize, and manage files, making file management easier and more efficient.
